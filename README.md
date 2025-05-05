@@ -1,5 +1,5 @@
 Swagger UI generuje nefunkční výchozí JSON, což vede k chybě.
-Pro úspěšné odeslání požadavku použijte tento JSON:
+Pro úspěšné odeslání požadavku použijte například tento JSON, nebo jemu podobný:
 
 {
   "customerName": "Testovací zákazník",
